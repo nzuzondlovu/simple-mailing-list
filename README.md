@@ -16,3 +16,8 @@
 	* Form For Message To Be Sent
 	* Use the Database For Users Emails
 	* Use Variables for Personalised Emails
+
+# Use Datatables
+	* This will help sort data
+	* Easily view data
+	* Easily search for data
